@@ -1,0 +1,143 @@
+{
+// "DAO": "DAO"
+// "LP Rewards": "LP 獎勵"
+// "Regulation": "貨幣數據"
+// "Governance": "監管"
+// "Trade": "交易"
+// "Coupons": "優惠券"
+// "Epoch Details": "階段數據"
+// "Balance": "餘額"
+// "Staged": "準備階段",
+// "Stage":"準備階段",       
+// "Bonded": "鎖定合約"
+// DAO Ownership: DAO 佔有率
+// Status: 狀態
+// Unlocked: 無鎖
+// Locked until: 鎖至
+// Locked: 鎖
+// until: 至
+// " until ": " 至 "
+// "epochs": "階段",
+// "epoch": "階段",
+// Deposit: 存款
+// Withdraw: 提款
+// Max: 全部
+// Exit Lockup: 解除合約時間
+// Epochs: 階段
+// Bonding events will restart the lockup timer: 重新鎖定合約會重置解鎖時間
+// LP Reward Pool : LP 獎勵池
+// Balance: 餘額
+// Rewarded: 獎勵
+// Claimable: 領取
+// Pool Ownrship: 池佔有率
+// Pool Status: 池狀態
+// Unlocked: 無鎖
+// Staged: 準備階段
+// Approve: 準備
+// Bond: 鎖定合約
+// Unbond: 解綁合約
+// Claim: 領取
+// Unbond to make rewards claimable after your status is Unlocked: 在狀態欄處於無鎖狀態後,可以解綁合約領取獎勵
+// Provide: 提供
+// Rewarded: 獎勵
+// USDC Balance: USDC 餘額
+// PEN Balance: PEN 餘額
+// ZAP your rewards directly to LP by providing more USDC: 提供相應的USDC 去疊加你的獎勵進入資金池裡面
+// Supply Regulation: 貨幣數據
+// Supply allocation: 貨幣分佈
+// Circulating: 流通
+// DAO Breakdown: DAO 數據
+// Bonded: 鎖定合約
+// Staged: 準備階段
+// Redeemable: 可領取
+// Uniswap Breakdown: Uniswap 數據
+// Liquidity: 流動性
+// Rewarded: 獎勵
+// Claimable: 可領取
+// Regulation History: 歷史數據
+// Epoch: 階段
+// Price: 價格
+// Redeemable: 可領取
+// DEBT: 債務
+// "Debt": "債務",
+// Bonded: 鎖定合約
+// Governance: 監管
+// DAO Ownership: DAO 佔有率
+// Proposal Threshold: 可投票率
+// Status: 狀態
+// Implementation: 發起者
+// Trade: 交易
+// Pen Price: PEN 價格
+// PEN Price: PEN 價格
+// Pen liquidity: PEN 流動性
+// PEN liquidity: PEN 流動性
+// USDC liquidity: USDC 流動性
+// Uniswap Contract: 合約地址
+// INFO: 信息
+// Info: 信息
+// View PEN-USDC stats.: 查看 PEN-USDC 池的狀態.
+// Trade Pen Tokens.: 交易PEN
+// Supply: 提供
+// Supply and redeem liquidity.: 提供或領取池子流動資金.
+// Coupon Market: 優惠券市場
+// Debt Ratio: 債務比率
+// Total Debt: 總債務
+// Coupons: 優惠券
+// Premium: 優惠率
+// Redeemable: 可領取
+// Purchase: 購買
+// Balance: 餘額
+// Burn: 兌換
+// Hide redeemed: 隱藏已領取
+// No data available: 沒有數據
+// Max: 全部
+// Epoch: 階段
+// Current: 當前
+// Next Epoch: 下個階段
+// Spot Price: 當前價格
+// TSWAP Price: TSWAP 價格
+// Period: 週期
+// Hours: 小時
+// Advance Epoch: 進階階段
+// Advance: 進階
+// Next Epoch: 下一個階段
+// PEN Debt will increase in the next Epoch: PEN 的債務會在下個階段產生
+// % coupon premium. No reward for Bonding or LPing. %的優惠率. 鎖定合約與LP 沒 有獎勵產生
+//   "Add Liquidity": ""
+//   " Pool Token": " 池令牌",
+//   "Mint ":"薄荷 ",
+//   Frozen: ""
+//   Remove Liquidity: ""
+//   Purchased: ""
+//   Expires: ""
+//   "Pair Token Balance": "配对代币余额",
+//   "You get ": "你得到",
+//   "Unlock for Uniswap": "为Uniswap解锁",
+//   "Unlock PEN": "解锁PEN",
+//   "Unlock USDC": "解锁USDC",
+//   "Unlock UNI-V2": "解锁UNI-V2",
+//   "Exchange": "交换",
+//   "Buy": "购买",
+//   "Cost: ": "成本：",
+//   "Proceeds: ": "收益：",
+//   "Sell": "卖",
+//   "default": "默认",
+//   "loading": "装货",
+//   "Legacy Pool Migration": "旧版池迁移",
+//   "Migrate": "迁移",
+//   "Requires ": "需要 ",
+//   "Connect": "连接",
+//   "Land": "语言",
+//   "No web3 wallet detected": "未检测到Web3钱包",
+//   "Click to get Metamask.": "单击以获取Metamask.",
+//   "Earn rewards for governing": "",
+//   "Earn rewards for providing liquidity.": "",
+//   "Network supply regulation statistics.": "",
+//   "Vote on upgrades.":"",
+//   "Purchase and redeem coupons.": "",
+//   "Epoch with historical details.": "",
+//   "Propose Candidate": "提出候选人",
+//   "Candidate History": "候选人历史",
+//   "Propose": "提出",
+//   "Epoch (from current time)": "阶段(从当前时间开始)"
+}

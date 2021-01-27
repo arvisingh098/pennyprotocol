@@ -573,7 +573,7 @@ export const getPoolFluidUntil = async (pool, account) => {
       if (epoch > event.start)
         return epoch
       else
-        return event.start
+        return parseInt(event.start)
     }, 0);
 
   // these contract events report the start epoch as one more than the active

@@ -1,5 +1,5 @@
 export const UNI = {
-  addr: '0x36EEAC0aC56058c091a50B6539b5521e22dF94C2',
+  addr: '0x365c6ABA69791356B550671718c1e3C11b865c4B',
   decimals: 18,
   symbol: 'UNI',
 };
@@ -11,13 +11,13 @@ export const USDC = {
 };
 
 export const PEN = {
-  addr: '0x46b244e45C53Aa3080c8a1efdaC473fE5F168581',
+  addr: '0xa63fae5e28c5310d54581c0af34ee7472ff4dd6d',
   decimals: 18,
   symbol: 'PEN',
 };
 
 export const PENS = {
-  addr: '0xBC46D158EA6291b545706Ae94DE6Fa19Be2f7b3E',
+  addr: '0xA062A680E22F0570297c99201d62927b22E64ba8',
   decimals: 18,
   symbol: 'PENS',
 };

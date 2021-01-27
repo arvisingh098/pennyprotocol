@@ -58,7 +58,7 @@ function UniswapPool({ user }: {user: string}) {
             title={t("Info")}
             description={t("View PEN-USDC pool stats.")}
             icon={<i className="fas fa-chart-area"/>}
-            href={"https://uniswap.info/pair/0x891Bf9b993B945Ba041AEdD2e606039c9e40EE38"}
+            href={"https://uniswap.info/pair/0x365c6ABA69791356B550671718c1e3C11b865c4B"}
           />
         </div>
 
@@ -67,7 +67,7 @@ function UniswapPool({ user }: {user: string}) {
             title={t("Trade")}
             description={t("Trade Pen tokens.")}
             icon={<i className="fas fa-exchange-alt"/>}
-            href={"https://uniswap.exchange/swap?inputCurrency=0x597072f9D8af624702c8fC4aA7fC919a04dAFbde&outputCurrency=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"}
+            href={"https://uniswap.exchange/swap?inputCurrency=0x1b3924f88A5ee1D9C86b97dce55d99d4B22dB569&outputCurrency=0xa63fae5e28c5310d54581c0af34ee7472ff4dd6d"}
           />
         </div>
 
@@ -76,7 +76,7 @@ function UniswapPool({ user }: {user: string}) {
             title={t("Supply")}
             description={t("Supply and redeem liquidity.")}
             icon={<i className="fas fa-water"/>}
-            href={"https://uniswap.exchange/add/0x597072f9D8af624702c8fC4aA7fC919a04dAFbde/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"}
+            href={"https://uniswap.exchange/add/0xa63fae5e28c5310d54581c0af34ee7472ff4dd6d/0x1b3924f88A5ee1D9C86b97dce55d99d4B22dB569"}
           />
         </div>
       </div>

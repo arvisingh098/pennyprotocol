@@ -3,8 +3,8 @@
     "static/js/0.190c78fc.chunk.js": "/pennyprotocol/static/js/0.190c78fc.chunk.js",
     "static/js/0.190c78fc.chunk.js.map": "/pennyprotocol/static/js/0.190c78fc.chunk.js.map",
     "main.css": "/pennyprotocol/static/css/main.cd51d495.chunk.css",
-    "main.js": "/pennyprotocol/static/js/main.45c4f3d7.chunk.js",
-    "main.js.map": "/pennyprotocol/static/js/main.45c4f3d7.chunk.js.map",
+    "main.js": "/pennyprotocol/static/js/main.f279eb4e.chunk.js",
+    "main.js.map": "/pennyprotocol/static/js/main.f279eb4e.chunk.js.map",
     "runtime-main.js": "/pennyprotocol/static/js/runtime-main.484d42a6.js",
     "runtime-main.js.map": "/pennyprotocol/static/js/runtime-main.484d42a6.js.map",
     "static/css/3.90857bd9.chunk.css": "/pennyprotocol/static/css/3.90857bd9.chunk.css",
@@ -25,7 +25,7 @@
     "static/js/10.0e249399.chunk.js": "/pennyprotocol/static/js/10.0e249399.chunk.js",
     "static/js/10.0e249399.chunk.js.map": "/pennyprotocol/static/js/10.0e249399.chunk.js.map",
     "index.html": "/pennyprotocol/index.html",
-    "precache-manifest.3e00f60deba6a1a4f23d034bfc8de447.js": "/pennyprotocol/precache-manifest.3e00f60deba6a1a4f23d034bfc8de447.js",
+    "precache-manifest.94adf4ab226299846728d63029eda116.js": "/pennyprotocol/precache-manifest.94adf4ab226299846728d63029eda116.js",
     "service-worker.js": "/pennyprotocol/service-worker.js",
     "static/css/3.90857bd9.chunk.css.map": "/pennyprotocol/static/css/3.90857bd9.chunk.css.map",
     "static/css/main.cd51d495.chunk.css.map": "/pennyprotocol/static/css/main.cd51d495.chunk.css.map",
@@ -41,6 +41,6 @@
     "static/css/3.90857bd9.chunk.css",
     "static/js/3.0d84452a.chunk.js",
     "static/css/main.cd51d495.chunk.css",
-    "static/js/main.45c4f3d7.chunk.js"
+    "static/js/main.f279eb4e.chunk.js"
   ]
 }

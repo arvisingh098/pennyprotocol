@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33b627648ccb39390175acdadb5eb1cb",
+    "revision": "02883313f8694bef72ee8ae98d1ab6da",
     "url": "/pennyprotocol/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pennyprotocol/static/css/3.90857bd9.chunk.css"
   },
   {
-    "revision": "e0e42afdb04722b17505",
+    "revision": "17629529e320ef37a69f",
     "url": "/pennyprotocol/static/css/main.cd51d495.chunk.css"
   },
   {
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pennyprotocol/static/js/9.64f3b83d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e0e42afdb04722b17505",
-    "url": "/pennyprotocol/static/js/main.45c4f3d7.chunk.js"
+    "revision": "17629529e320ef37a69f",
+    "url": "/pennyprotocol/static/js/main.f279eb4e.chunk.js"
   },
   {
     "revision": "2f217b3bd3b5c8ecbd80",
